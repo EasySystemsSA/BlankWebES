@@ -5,4 +5,9 @@
 
     End Sub
 
+    Protected Sub btnNewButton_Click(sender As Object, e As EventArgs) Handles btnNewButton.Click
+
+        Dim x = 0
+
+    End Sub
 End Class
