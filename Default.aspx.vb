@@ -21,7 +21,13 @@
 
         Dim newstr = ""
 
+        Dim secondarrayList As New ArrayList
 
+        For Each item In secondarrayList
+
+            Dim newste2 = ""
+
+        Next
 
     End Sub
 End Class
