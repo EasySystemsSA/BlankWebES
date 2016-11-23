@@ -9,11 +9,13 @@
 
         Dim x = 0
 
-        Dim newarray As New ArrayList
+        Dim newarrayList As New ArrayList
 
-        For Each item In newarray
+        For Each item In newarrayList
 
-            Dim y = 0
+            Dim z = 0
+
+            z = x
 
         Next
 
