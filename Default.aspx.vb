@@ -9,5 +9,15 @@
 
         Dim x = 0
 
+        Dim newarrayList As New ArrayList
+
+        For Each item In newarrayList
+
+            Dim z = 0
+
+            z = x
+
+        Next
+
     End Sub
 End Class
