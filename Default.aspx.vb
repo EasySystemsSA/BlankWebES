@@ -2,10 +2,11 @@
     Inherits System.Web.UI.Page
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-
+        ButtonAction()
     End Sub
 
-    Protected Sub btnNewButton_Click(sender As Object, e As EventArgs) Handles btnNewButton.Click
+
+    Sub ButtonAction()
 
         Dim x = 0
 
@@ -21,7 +22,6 @@
 
         Dim newstr = ""
 
-
-
     End Sub
+
 End Class
