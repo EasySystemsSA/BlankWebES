@@ -23,11 +23,11 @@ Partial Public Class _Default
     Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
     
     '''<summary>
-    '''btnNewButton control.
+    '''btnNew2 control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents btnNewButton As Global.System.Web.UI.WebControls.Button
+    Protected WithEvents btnNew2 As Global.System.Web.UI.WebControls.Button
 End Class
