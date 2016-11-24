@@ -39,6 +39,25 @@ Partial Public Class _Default
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents btnNew2 As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''btnNew3 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents btnNew3 As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''imgCT1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents imgCT1 As Global.System.Web.UI.WebControls.Image
+
     '''<summary>
     '''lnkGoToContactUs control.
     '''</summary>

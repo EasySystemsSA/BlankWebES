@@ -84,6 +84,7 @@
   <ItemGroup>
     <Content Include="ContactUs.aspx" />
     <Content Include="Default.aspx" />
+    <Content Include="Images\ChristmasTree1.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
