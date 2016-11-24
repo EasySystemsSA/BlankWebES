@@ -10,6 +10,8 @@
     <form id="form1" runat="server">
     <div>
         <asp:Button ID="btnNew2" runat="server" Text="New Button" />
+        <br />
+        <asp:Label Text="" ID="lblCal" runat="server" Font-Bold="true" ForeColor="Red"  />
     </div>
     </form>
 </body>
