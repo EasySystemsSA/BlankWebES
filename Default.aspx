@@ -23,8 +23,6 @@
         <br />
         <br />
         <asp:LinkButton ID="lnkGoToContactUs" runat="server">CONTACT US</asp:LinkButton>
-
-        Test
     </div>
     </form>
 </body>
