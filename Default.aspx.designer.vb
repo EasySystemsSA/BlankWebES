@@ -23,15 +23,6 @@ Partial Public Class _Default
     Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
 
     '''<summary>
-    '''btnNew2 control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents btnNew2 As Global.System.Web.UI.WebControls.Button
-
-    '''<summary>
     '''lblCal control.
     '''</summary>
     '''<remarks>
@@ -39,4 +30,13 @@ Partial Public Class _Default
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lblCal As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''btnNew2 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents btnNew2 As Global.System.Web.UI.WebControls.Button
 End Class

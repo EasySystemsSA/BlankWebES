@@ -30,12 +30,16 @@
 
         Next
 
-        lblCal.Text = "Hello World!"
+        lblCal.Text = "Ho! Ho! Ho! Hello all you good little boys and girls! Merry Christmas!"
 
     End Sub
 
     Protected Sub btnNew2_Click(sender As Object, e As EventArgs) Handles btnNew2.Click
-        lblCal.ForeColor = Drawing.Color.Green
+        If lblCal.ForeColor = Drawing.Color.Green Then
+            lblCal.ForeColor = Drawing.Color.Red
+        Else
+            lblCal.ForeColor = Drawing.Color.Green
+        End If
 
     End Sub
 End Class
