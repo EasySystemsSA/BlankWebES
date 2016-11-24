@@ -30,6 +30,12 @@
 
         Next
 
+        lblCal.Text = "Hello World!"
+
     End Sub
 
+    Protected Sub btnNew2_Click(sender As Object, e As EventArgs) Handles btnNew2.Click
+        lblCal.ForeColor = Drawing.Color.Green
+
+    End Sub
 End Class
