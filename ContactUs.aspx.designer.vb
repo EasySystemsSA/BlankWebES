@@ -11,7 +11,7 @@ Option Strict On
 Option Explicit On
 
 
-Partial Public Class _Default
+Partial Public Class ContactUs
     
     '''<summary>
     '''form1 control.
@@ -23,29 +23,11 @@ Partial Public Class _Default
     Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
     
     '''<summary>
-    '''btnNew2 control.
+    '''lnkGoToHome control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents btnNew2 As Global.System.Web.UI.WebControls.Button
-    
-    '''<summary>
-    '''lblCal control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lblCal As Global.System.Web.UI.WebControls.Label
-    
-    '''<summary>
-    '''lnkGoToContactUs control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lnkGoToContactUs As Global.System.Web.UI.WebControls.LinkButton
+    Protected WithEvents lnkGoToHome As Global.System.Web.UI.WebControls.LinkButton
 End Class
