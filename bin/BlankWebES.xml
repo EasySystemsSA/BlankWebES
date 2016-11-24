@@ -42,7 +42,7 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:BlankWebES._Default._lblCal">
+<member name="F:BlankWebES._Default._btnNew2">
 <summary>
 lblCal control.
 </summary>
@@ -51,9 +51,18 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:BlankWebES._Default._btnNew2">
+<member name="F:BlankWebES._Default._btnNew3">
 <summary>
-btnNew2 control.
+btnNew3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:BlankWebES._Default._imgCT1">
+<summary>
+imgCT1 control.
 </summary>
 <remarks>
 Auto-generated field.

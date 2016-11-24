@@ -48,4 +48,8 @@
     Protected Sub lnkGoToContactUs_Click(sender As Object, e As EventArgs) Handles lnkGoToContactUs.Click
         Response.Redirect("ContactUs.aspx")
     End Sub
+
+    Protected Sub btnNew3_Click(sender As Object, e As EventArgs) Handles btnNew3.Click
+        imgCT1.Visible = True
+    End Sub
 End Class

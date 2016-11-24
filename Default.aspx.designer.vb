@@ -12,7 +12,7 @@ Option Explicit On
 
 
 Partial Public Class _Default
-    
+
     '''<summary>
     '''form1 control.
     '''</summary>
@@ -21,7 +21,7 @@ Partial Public Class _Default
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
-    
+
     '''<summary>
     '''lnkGoToContactUs control.
     '''</summary>
@@ -30,7 +30,7 @@ Partial Public Class _Default
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lnkGoToContactUs As Global.System.Web.UI.WebControls.LinkButton
-    
+
     '''<summary>
     '''lblCal control.
     '''</summary>
@@ -38,14 +38,27 @@ Partial Public Class _Default
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents lblCal As Global.System.Web.UI.WebControls.Label
-    
+    Protected WithEvents btnNew2 As Global.System.Web.UI.WebControls.Button
+
     '''<summary>
-    '''btnNew2 control.
+    '''btnNew3 control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents btnNew2 As Global.System.Web.UI.WebControls.Button
+    Protected WithEvents btnNew3 As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''imgCT1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents imgCT1 As Global.System.Web.UI.WebControls.Image
+
+    Protected WithEvents lblCal As Global.System.Web.UI.WebControls.Label
+
+
 End Class
