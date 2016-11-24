@@ -23,16 +23,16 @@ Partial Public Class _Default
     Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
 
     '''<summary>
-    '''lblCal control.
+    '''lnkGoToContactUs control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents lblCal As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents lnkGoToContactUs As Global.System.Web.UI.WebControls.LinkButton
 
     '''<summary>
-    '''btnNew2 control.
+    '''lblCal control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
@@ -58,12 +58,7 @@ Partial Public Class _Default
     '''</remarks>
     Protected WithEvents imgCT1 As Global.System.Web.UI.WebControls.Image
 
-    '''<summary>
-    '''lnkGoToContactUs control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lnkGoToContactUs As Global.System.Web.UI.WebControls.LinkButton
+    Protected WithEvents lblCal As Global.System.Web.UI.WebControls.Label
+
+
 End Class
