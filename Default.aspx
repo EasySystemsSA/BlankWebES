@@ -12,6 +12,9 @@
         <asp:Label Text="" ID="lblCal" runat="server" Font-Bold="true" ForeColor="Red"  />
         <br /><br />
         <asp:Button ID="btnNew2" runat="server" Text="Look at the Christmas lights!" />
+        <br />
+        <br />
+        <asp:LinkButton ID="lnkGoToContactUs" runat="server">CONTACT US</asp:LinkButton>
     </div>
     </form>
 </body>
